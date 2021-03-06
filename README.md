@@ -4,7 +4,7 @@
 Flashcard App that lets you create your own flashcards.
 
 ### App Walk-though
-ezgif.com-gif-maker.mp4
+https://user-images.githubusercontent.com/78508685/110222536-e4988500-7ea0-11eb-8470-04b1804348e6.mp4
 
 ## Required
 - [x] User can open the creation screen
